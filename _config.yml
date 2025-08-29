@@ -2,8 +2,8 @@ title:              CHI YEN NGUYEN
 # email:              your-email@example.com
 description:        Exploring tomorrow’s intelligence, today
 author:             Chi Yen Nguyen
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:               "https://chi-nguyen.github.io"
+baseurl:           ""
+url:               "https://chinguyen.github.io"
 
 # Social Profiles
 # twitter_username:   SBootstrap
