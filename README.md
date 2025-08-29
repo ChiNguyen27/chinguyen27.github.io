@@ -1,6 +1,6 @@
 Hi, I'm Chi 👋
 
-I’m a data scientist, applied AI researcher, and writer from a coastal city in Vietnam, surrounded by fresh seafood and the scent of the sea.
+I’m a data scientist, applied AI researcher (Ph.D.), and writer from a coastal city in Vietnam, surrounded by fresh seafood and the scent of the sea.
 
 🔭 I’m currently focused on building AI Agent solutions that create meaningful value for clients.
 
