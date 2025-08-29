@@ -10,4 +10,4 @@ I’m a data scientist, applied AI researcher (Ph.D.), and writer from a coastal
 
 🎓 I originally planned a career in wireless communications, but discovering AI sparked my curiosity and shaped the path I’m on today.
 
-I'm best reached via [Connect with me on LinkedIn](https://www.linkedin.com/in/chi-nguyen-a612421b2/). I'm always open to interesting conversations and collaboration.
+I'm best reached via [LinkedIn](https://www.linkedin.com/in/chi-nguyen-a612421b2/). I'm always open to interesting conversations and collaboration.
