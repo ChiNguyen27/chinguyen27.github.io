@@ -1,6 +1,6 @@
 Hi, I'm Chi 👋
 
-I’m a Data Scientist dedicated to building intellengt AI agents that drives solutions across sectors including tax, finance and energy sectors. I hold a Ph.D. in applied AI, and have a strong passionate about writing about technology and daily life story. 
+I’m a Data Scientist dedicated to building intelligent AI agents that drives solutions across sectors including tax, finance and energy sectors. I hold a Ph.D. in applied AI, and have a strong passionate about writing about technology and daily life story. 
 
 I'm a coastal city in Vietnam, only an 1.5 hour  from stunning to Halong Bay. Life in my hometown is surrounded by aroma of seafood and the gentle breeze of the sea.
 
